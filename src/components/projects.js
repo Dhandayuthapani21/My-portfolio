@@ -4,7 +4,7 @@ const Projects = () => {
   const projectList = [
     { name: 'Link Clients & Contractors', github: 'https://github.com/Dhandayuthapani2112/Digital-platform-for-client-and-constructor.git' },
     { name: 'Recruitment Consulting Page', github: 'https://github.com/Dhandayuthapani2112/Recruitment-consulting.git' },
-    { name: 'My Portfolio', github: 'https://github.com/Dhandayuthapani2112/My-portfolio' },
+    { name: 'My Portfolio', github: 'https://github.com/Dhandayuthapani21/My-portfolio.git' },
   ];
 
   return (
